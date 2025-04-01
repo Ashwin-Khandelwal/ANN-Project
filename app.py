@@ -6,7 +6,6 @@ import os
 from PIL import Image
 import matplotlib.pyplot as plt
 import seaborn as sns
-import time
 
 # Configure page
 st.set_page_config(
